@@ -1,5 +1,10 @@
 Created by Anthony Deco at 2:00 PM
 
+Start Link: http://localhost:8080/DICTApplicationProject/
+How to run: 	1. Copy paste 2 folders (DICTApplication and DICTApplicationEAR)
+		2. Run with Apache Tomcat server
+		3. Copy and paste start link to browser
+
 I reuploaded the git because for some reason people cannot access it. But the changes here is as follows:
 
 02/22/18 4:55 PM (FINAL)
